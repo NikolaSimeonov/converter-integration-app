@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="converter-api" groupId="com.example.converter-integration.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/converter-api.xml</file>
+    </artifact>
+    <artifact name="converter-proxy" groupId="com.example.converter-integration.proxy-service" version="1.0.0" type="synapse/proxy-service" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/proxy-services/converter-proxy.xml</file>
+    </artifact>
+    <artifact name="MicroserviceInbound" groupId="com.example.converter-integration.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/MicroserviceInbound.xml</file>
+    </artifact>
+    <artifact name="converter-microservice-endpoint" groupId="com.example.converter-integration.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/converter-microservice-endpoint.xml</file>
+    </artifact>
+</artifacts>

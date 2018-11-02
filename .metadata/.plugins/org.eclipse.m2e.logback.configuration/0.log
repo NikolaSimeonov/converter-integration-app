@@ -1,0 +1,264 @@
+2018-10-31 00:00:02,464 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 00:00:15,438 [Worker-0] INFO  org.eclipse.jetty.util.log - Logging initialized @48051ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 00:00:15,632 [Worker-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 00:00:15,691 [Worker-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 00:00:15,691 [Worker-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 00:00:15,694 [Worker-0] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 00:00:15,716 [Worker-0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5bd978f9{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 00:00:15,718 [Worker-0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4cae879a{/servlet,null,AVAILABLE}
+2018-10-31 00:00:15,781 [Worker-0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@12ccca7b{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 00:00:15,782 [Worker-0] INFO  org.eclipse.jetty.server.Server - Started @48396ms
+2018-10-31 00:06:18,507 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 00:06:25,234 [Worker-1] INFO  org.eclipse.jetty.util.log - Logging initialized @25989ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 00:06:25,419 [Worker-1] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 00:06:25,482 [Worker-1] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 00:06:25,483 [Worker-1] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 00:06:25,486 [Worker-1] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-10-31 00:06:25,505 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@190da364{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 00:06:25,507 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@207caa41{/servlet,null,AVAILABLE}
+2018-10-31 00:06:25,558 [Worker-1] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@103c53b{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 00:06:25,559 [Worker-1] INFO  org.eclipse.jetty.server.Server - Started @26314ms
+2018-10-31 00:09:18,751 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 00:09:26,070 [Worker-7] INFO  org.eclipse.jetty.util.log - Logging initialized @104073ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 00:09:26,257 [Worker-7] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 00:09:26,320 [Worker-7] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 00:09:26,320 [Worker-7] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 00:09:26,329 [Worker-7] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-10-31 00:09:26,352 [Worker-7] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@107490cc{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 00:09:26,353 [Worker-7] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@a781a43{/servlet,null,AVAILABLE}
+2018-10-31 00:09:26,447 [Worker-7] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@22a42e31{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 00:09:26,448 [Worker-7] INFO  org.eclipse.jetty.server.Server - Started @104452ms
+2018-10-31 00:56:17,553 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 00:56:23,406 [Worker-8] INFO  org.eclipse.jetty.util.log - Logging initialized @30073ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 00:56:23,851 [Worker-8] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 00:56:24,024 [Worker-8] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 00:56:24,024 [Worker-8] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 00:56:24,027 [Worker-8] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-10-31 00:56:24,060 [Worker-8] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@682b456a{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 00:56:24,062 [Worker-8] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@678058a8{/servlet,null,AVAILABLE}
+2018-10-31 00:56:24,272 [Worker-8] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@50a0a5fc{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 00:56:24,273 [Worker-8] INFO  org.eclipse.jetty.server.Server - Started @30946ms
+2018-10-31 15:54:44,407 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 15:54:49,761 [Worker-5] INFO  org.eclipse.jetty.util.log - Logging initialized @227621ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 15:54:50,313 [Worker-5] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 15:54:50,555 [Worker-5] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 15:54:50,556 [Worker-5] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 15:54:50,562 [Worker-5] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-10-31 15:54:50,609 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7355561e{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 15:54:50,612 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4f380bca{/servlet,null,AVAILABLE}
+2018-10-31 15:54:51,140 [Worker-5] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5fb8ff7a{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 15:54:51,141 [Worker-5] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-10-31 15:54:51,164 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4f380bca{/servlet,null,UNAVAILABLE}
+2018-10-31 15:54:51,165 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@7355561e{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,UNAVAILABLE}
+2018-10-31 15:54:51,681 [Worker-5] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 15:54:51,767 [Worker-5] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 15:54:51,767 [Worker-5] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 15:54:51,767 [Worker-5] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 15:54:52,301 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1942277e{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 15:54:52,302 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@398acd9d{/servlet,null,AVAILABLE}
+2018-10-31 15:54:52,349 [Worker-5] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7ac6111b{HTTP/1.1,[http/1.1]}{0.0.0.0:7775}
+2018-10-31 15:54:52,349 [Worker-5] INFO  org.eclipse.jetty.server.Server - Started @230210ms
+2018-10-31 16:24:37,374 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 16:24:47,491 [Worker-9] INFO  org.eclipse.jetty.util.log - Logging initialized @47805ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 16:24:47,972 [Worker-9] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 16:24:48,089 [Worker-9] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 16:24:48,090 [Worker-9] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 16:24:48,094 [Worker-9] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-10-31 16:24:48,120 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3596dfdb{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 16:24:48,122 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5b97362c{/servlet,null,AVAILABLE}
+2018-10-31 16:24:48,200 [Worker-9] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@15f0635a{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 16:24:48,201 [Worker-9] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-10-31 16:24:48,213 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5b97362c{/servlet,null,UNAVAILABLE}
+2018-10-31 16:24:48,214 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@3596dfdb{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,UNAVAILABLE}
+2018-10-31 16:24:48,257 [Worker-9] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 16:24:48,263 [Worker-9] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 16:24:48,263 [Worker-9] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 16:24:48,263 [Worker-9] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 16:24:48,315 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@573c3113{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 16:24:48,336 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7845a2d4{/servlet,null,AVAILABLE}
+2018-10-31 16:24:48,398 [Worker-9] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@57c050a9{HTTP/1.1,[http/1.1]}{0.0.0.0:7775}
+2018-10-31 16:24:48,399 [Worker-9] INFO  org.eclipse.jetty.server.Server - Started @48713ms
+2018-10-31 16:40:22,015 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 16:40:28,956 [Worker-10] INFO  org.eclipse.jetty.util.log - Logging initialized @202574ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 16:40:29,289 [Worker-10] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 16:40:29,378 [Worker-10] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 16:40:29,378 [Worker-10] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 16:40:29,384 [Worker-10] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-10-31 16:40:29,413 [Worker-10] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@42cce64{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 16:40:29,415 [Worker-10] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@a0a3d6f{/servlet,null,AVAILABLE}
+2018-10-31 16:40:29,506 [Worker-10] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2dd01f67{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 16:40:29,507 [Worker-10] INFO  org.eclipse.jetty.server.Server - Started @203126ms
+2018-10-31 17:27:23,349 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 17:27:32,507 [Worker-6] INFO  org.eclipse.jetty.util.log - Logging initialized @41032ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 17:27:32,749 [Worker-6] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 17:27:32,823 [Worker-6] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 17:27:32,823 [Worker-6] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 17:27:32,829 [Worker-6] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 17:27:32,853 [Worker-6] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@30373f26{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 17:27:32,854 [Worker-6] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@b689a7{/servlet,null,AVAILABLE}
+2018-10-31 17:27:32,913 [Worker-6] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@259d963c{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 17:27:32,914 [Worker-6] INFO  org.eclipse.jetty.server.Server - Started @41440ms
+2018-10-31 17:28:17,937 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 17:28:25,704 [Worker-9] INFO  org.eclipse.jetty.util.log - Logging initialized @33079ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 17:28:26,239 [Worker-9] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 17:28:26,325 [Worker-9] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 17:28:26,325 [Worker-9] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 17:28:26,334 [Worker-9] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 17:28:26,377 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6be4f869{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 17:28:26,378 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@8cdb713{/servlet,null,AVAILABLE}
+2018-10-31 17:28:26,440 [Worker-9] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@26623b17{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 17:28:26,441 [Worker-9] INFO  org.eclipse.jetty.server.Server - Started @33816ms
+2018-10-31 22:28:31,303 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-31 22:29:07,130 [Worker-1] INFO  org.eclipse.jetty.util.log - Logging initialized @153780ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-10-31 22:29:09,164 [Worker-1] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 22:29:09,352 [Worker-1] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 22:29:09,353 [Worker-1] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 22:29:09,357 [Worker-1] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 22:29:09,415 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4f0e2e76{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 22:29:09,418 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1fdae048{/servlet,null,AVAILABLE}
+2018-10-31 22:29:09,628 [Worker-1] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@48b5e313{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-10-31 22:29:09,629 [Worker-1] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-10-31 22:29:09,633 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1fdae048{/servlet,null,UNAVAILABLE}
+2018-10-31 22:29:09,634 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@4f0e2e76{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,UNAVAILABLE}
+2018-10-31 22:29:09,666 [Worker-1] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-10-31 22:29:09,692 [Worker-1] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-10-31 22:29:09,693 [Worker-1] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-10-31 22:29:09,693 [Worker-1] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-10-31 22:29:09,713 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7cfcd3a3{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-10-31 22:29:09,714 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@86b2520{/servlet,null,AVAILABLE}
+2018-10-31 22:29:09,796 [Worker-1] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@28c6bbbc{HTTP/1.1,[http/1.1]}{0.0.0.0:7775}
+2018-10-31 22:29:09,797 [Worker-1] INFO  org.eclipse.jetty.server.Server - Started @156447ms
+2018-11-01 00:52:27,336 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-01 00:52:38,335 [Worker-0] INFO  org.eclipse.jetty.util.log - Logging initialized @107320ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-01 00:52:39,052 [Worker-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-01 00:52:39,142 [Worker-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-01 00:52:39,143 [Worker-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-01 00:52:39,146 [Worker-0] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-11-01 00:52:39,169 [Worker-0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@778ab8fb{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-01 00:52:39,170 [Worker-0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6f06d218{/servlet,null,AVAILABLE}
+2018-11-01 00:52:39,237 [Worker-0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@2ad0159b{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-01 00:52:39,237 [Worker-0] INFO  org.eclipse.jetty.server.Server - Started @108222ms
+2018-11-01 01:11:51,005 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-01 01:11:58,260 [Worker-9] INFO  org.eclipse.jetty.util.log - Logging initialized @30855ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-01 01:11:58,448 [Worker-9] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-01 01:11:58,505 [Worker-9] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-01 01:11:58,506 [Worker-9] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-01 01:11:58,509 [Worker-9] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-11-01 01:11:58,531 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2d1f4a79{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-01 01:11:58,533 [Worker-9] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@31bc847d{/servlet,null,AVAILABLE}
+2018-11-01 01:11:58,598 [Worker-9] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4f2b053e{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-01 01:11:58,598 [Worker-9] INFO  org.eclipse.jetty.server.Server - Started @31193ms
+2018-11-01 19:13:50,872 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-01 19:13:58,531 [Worker-8] INFO  org.eclipse.jetty.util.log - Logging initialized @59367ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-01 19:13:58,813 [Worker-8] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-01 19:13:58,875 [Worker-8] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-01 19:13:58,875 [Worker-8] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-01 19:13:58,875 [Worker-8] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-01 19:13:58,891 [Worker-8] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7439accd{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-01 19:13:58,891 [Worker-8] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1f49dc1c{/servlet,null,AVAILABLE}
+2018-11-01 19:13:58,969 [Worker-8] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3fa60bf6{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-01 19:13:58,969 [Worker-8] INFO  org.eclipse.jetty.server.Server - Started @59795ms
+2018-11-01 23:07:51,161 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-01 23:08:08,060 [Worker-13] INFO  org.eclipse.jetty.util.log - Logging initialized @1166290ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-01 23:08:08,610 [Worker-13] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-01 23:08:08,852 [Worker-13] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-01 23:08:08,852 [Worker-13] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-01 23:08:08,856 [Worker-13] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-11-01 23:08:08,926 [Worker-13] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6a34d1f2{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-01 23:08:08,928 [Worker-13] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@28e0c5a6{/servlet,null,AVAILABLE}
+2018-11-01 23:08:09,076 [Worker-13] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@72c7309e{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-01 23:08:09,077 [Worker-13] INFO  org.eclipse.jetty.server.Server - Started @1167308ms
+2018-11-01 23:39:53,710 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-01 23:40:06,077 [Worker-7] INFO  org.eclipse.jetty.util.log - Logging initialized @56536ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-01 23:40:06,649 [Worker-7] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-01 23:40:06,739 [Worker-7] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-01 23:40:06,739 [Worker-7] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-01 23:40:06,742 [Worker-7] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-01 23:40:06,770 [Worker-7] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7899929c{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-01 23:40:06,773 [Worker-7] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@33221f11{/servlet,null,AVAILABLE}
+2018-11-01 23:40:06,832 [Worker-7] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@261a234b{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-01 23:40:06,833 [Worker-7] INFO  org.eclipse.jetty.server.Server - Started @57292ms
+2018-11-02 00:21:37,028 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-02 00:21:54,981 [Worker-16] INFO  org.eclipse.jetty.util.log - Logging initialized @130876ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 00:21:55,397 [Worker-16] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 00:21:55,535 [Worker-16] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 00:21:55,536 [Worker-16] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 00:21:55,542 [Worker-16] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-02 00:21:55,561 [Worker-16] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@42db443f{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 00:21:55,562 [Worker-16] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@65e96f20{/servlet,null,AVAILABLE}
+2018-11-02 00:21:55,651 [Worker-16] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@63a97282{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 00:21:55,651 [Worker-16] INFO  org.eclipse.jetty.server.Server - Started @131547ms
+2018-11-02 18:58:41,237 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-02 18:59:01,844 [Worker-24] INFO  org.eclipse.jetty.util.log - Logging initialized @308353ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 18:59:02,095 [Worker-24] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 18:59:02,155 [Worker-24] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 18:59:02,155 [Worker-24] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 18:59:02,158 [Worker-24] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-02 18:59:02,179 [Worker-24] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@799210c7{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 18:59:02,181 [Worker-24] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2ac869d1{/servlet,null,AVAILABLE}
+2018-11-02 18:59:02,244 [Worker-24] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4190b7ec{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 18:59:02,244 [Worker-24] INFO  org.eclipse.jetty.server.Server - Started @308754ms
+2018-11-02 21:11:43,827 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-02 21:11:52,034 [Worker-12] INFO  org.eclipse.jetty.util.log - Logging initialized @673031ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 21:11:52,385 [Worker-12] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 21:11:52,473 [Worker-12] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 21:11:52,474 [Worker-12] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 21:11:52,480 [Worker-12] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-11-02 21:11:52,522 [Worker-12] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@44464bd3{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 21:11:52,524 [Worker-12] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3182876d{/servlet,null,AVAILABLE}
+2018-11-02 21:11:52,595 [Worker-12] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@71f269a6{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 21:11:52,595 [Worker-12] INFO  org.eclipse.jetty.server.Server - Started @673593ms
+2018-11-02 21:23:41,150 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-02 21:23:48,804 [Worker-0] INFO  org.eclipse.jetty.util.log - Logging initialized @285900ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 21:23:49,001 [Worker-0] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 21:23:49,060 [Worker-0] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 21:23:49,060 [Worker-0] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 21:23:49,063 [Worker-0] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-11-02 21:23:49,083 [Worker-0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@26583730{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 21:23:49,085 [Worker-0] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@28dbf0a5{/servlet,null,AVAILABLE}
+2018-11-02 21:23:49,133 [Worker-0] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3f1a50e2{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 21:23:49,134 [Worker-0] INFO  org.eclipse.jetty.server.Server - Started @286230ms
+2018-11-02 21:34:40,272 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-02 21:34:47,081 [Worker-7] INFO  org.eclipse.jetty.util.log - Logging initialized @77750ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 21:34:47,260 [Worker-7] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 21:34:47,315 [Worker-7] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 21:34:47,315 [Worker-7] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 21:34:47,318 [Worker-7] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-02 21:34:47,336 [Worker-7] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7fd46b4f{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 21:34:47,337 [Worker-7] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@447f7b5e{/servlet,null,AVAILABLE}
+2018-11-02 21:34:47,384 [Worker-7] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3341cda4{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 21:34:47,384 [Worker-7] INFO  org.eclipse.jetty.server.Server - Started @78053ms
+2018-11-02 22:18:53,748 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-02 22:19:09,671 [Worker-5] INFO  org.eclipse.jetty.util.log - Logging initialized @82807ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 22:19:10,105 [Worker-5] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 22:19:10,264 [Worker-5] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 22:19:10,265 [Worker-5] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 22:19:10,268 [Worker-5] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-02 22:19:10,299 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@79454a9c{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 22:19:10,301 [Worker-5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a63189f{/servlet,null,AVAILABLE}
+2018-11-02 22:19:10,397 [Worker-5] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1699b00{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 22:19:10,399 [Worker-5] INFO  org.eclipse.jetty.server.Server - Started @83535ms
+2018-11-02 22:56:27,652 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.wso2.org/nexus/content/groups/wso2-public/org/wso2/maven/wso2-esb-proxy-plugin/2.1.0/wso2-esb-proxy-plugin-2.1.0.pom
+2018-11-02 22:56:28,066 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.wso2.org/nexus/content/groups/wso2-public/org/wso2/maven/wso2-esb-proxy-plugin/2.1.0/wso2-esb-proxy-plugin-2.1.0.pom
+2018-11-02 22:56:30,035 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.wso2.org/nexus/content/groups/wso2-public/org/wso2/maven/wso2-esb-proxy-plugin/2.1.0/wso2-esb-proxy-plugin-2.1.0.jar
+2018-11-02 22:56:30,678 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.wso2.org/nexus/content/groups/wso2-public/org/wso2/maven/wso2-esb-proxy-plugin/2.1.0/wso2-esb-proxy-plugin-2.1.0.jar
+2018-11-02 23:44:14,521 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-02 23:44:29,045 [Worker-8] INFO  org.eclipse.jetty.util.log - Logging initialized @75214ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-02 23:44:29,473 [Worker-8] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-02 23:44:29,551 [Worker-8] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-02 23:44:29,552 [Worker-8] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-02 23:44:29,558 [Worker-8] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-11-02 23:44:29,612 [Worker-8] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5358571{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-02 23:44:29,619 [Worker-8] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5039fa68{/servlet,null,AVAILABLE}
+2018-11-02 23:44:29,670 [Worker-8] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7df662b9{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-02 23:44:29,671 [Worker-8] INFO  org.eclipse.jetty.server.Server - Started @75843ms
+2018-11-03 00:02:03,694 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-03 00:02:12,460 [Worker-6] INFO  org.eclipse.jetty.util.log - Logging initialized @332945ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-11-03 00:02:12,786 [Worker-6] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T23:27:37+02:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-11-03 00:02:12,862 [Worker-6] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-11-03 00:02:12,863 [Worker-6] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-11-03 00:02:12,866 [Worker-6] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-11-03 00:02:12,926 [Worker-6] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@72b93cd4{/welcome,file:///C:/Development/IDEs/eclipse_eii/eclipse/configuration/org.eclipse.osgi/1178/0/.cp/TemplateDash/,AVAILABLE}
+2018-11-03 00:02:12,927 [Worker-6] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3c63934{/servlet,null,AVAILABLE}
+2018-11-03 00:02:12,998 [Worker-6] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@64b90b1d{HTTP/1.1,[http/1.1]}{0.0.0.0:7774}
+2018-11-03 00:02:12,999 [Worker-6] INFO  org.eclipse.jetty.server.Server - Started @333485ms

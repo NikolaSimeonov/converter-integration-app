@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="converter-proxy" groupId="com.example.converter-integration.proxy-service" version="1.0.0" type="synapse/proxy-service" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/proxy-services/converter-proxy.xml</file>
+    </artifact>
+    <artifact name="converter-api" groupId="com.example.converter-integration.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/converter-api.xml</file>
+    </artifact>
+    <artifact name="converter-microservice" groupId="com.example.converter-integration.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/converter-microservice.xml</file>
+    </artifact>
+    <artifact name="converter-rest" groupId="com.example.converter-integration.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/converter-rest.xml</file>
+    </artifact>
+    <artifact name="rest-3" groupId="com.example.converter-integration.endpoint" version="1.0.0" type="synapse/endpoint" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/endpoints/rest-3.xml</file>
+    </artifact>
+</artifacts>

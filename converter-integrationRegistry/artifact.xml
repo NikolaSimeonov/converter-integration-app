@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="ResponseTransformer" groupId="com.example.converter-integration.resource" version="1.0.0" type="registry/resource" serverRole="EnterpriseServiceBus">
+        <item>
+            <file>ResponseTransformer.xslt</file>
+            <path>/_system/config/myresources</path>
+            <mediaType/>
+        </item>
+    </artifact>
+</artifacts>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proxy name="converter-proxy2" startOnLoad="true" transports="https http" xmlns="http://ws.apache.org/ns/synapse">
+    <target>
+        <endpoint key="converter-rest"/>
+        <inSequence>
+            <log level="full">
+                <property name="property_name" value="Here we go 2"/>
+            </log>
+        </inSequence>
+        <outSequence>
+            <log level="full"/>
+            <send/>
+        </outSequence>
+        <faultSequence/>
+    </target>
+</proxy>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	<xsl:template match="/">
+		<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <ns3:distanceInKmResponse xmlns:ns3="http://spring.io/guides/gs-producing-web-service">
+            <distanceInKm>1000</distanceInKm>
+        </ns3:distanceInKmResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+	</xsl:template>
+</xsl:stylesheet>

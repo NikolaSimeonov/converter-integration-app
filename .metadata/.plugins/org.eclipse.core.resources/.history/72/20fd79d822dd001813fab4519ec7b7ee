@@ -1,0 +1,10 @@
+<proxy xmlns="http://ws.apache.org/ns/synapse" name="InboundProxy"
+	transports="http, https" statistics="disable" trace="disable"
+	startOnLoad="true">
+	<target  endpoint="MicroserviceInbound">
+		<outSequence>
+			<send />
+		</outSequence>
+		
+	</target>
+</proxy>

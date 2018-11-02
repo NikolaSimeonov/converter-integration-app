@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api context="/converter-api" name="converter-api" xmlns="http://ws.apache.org/ns/synapse">
+    <resource methods="GET" uri-template="/*">
+        <inSequence>
+            <send>
+                <endpoint>
+                    <address format="rest" uri="http://localhost:8080/*"/>
+                </endpoint>
+            </send>
+        </inSequence>
+        <outSequence>
+            <send/>
+        </outSequence>
+        <faultSequence/>
+    </resource>
+</api>

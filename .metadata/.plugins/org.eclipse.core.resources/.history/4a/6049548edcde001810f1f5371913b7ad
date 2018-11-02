@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api context="/distanceConverter" name="converter-api" xmlns="http://ws.apache.org/ns/synapse">
+    <resource methods="POST GET" uri-template="/*">
+        <inSequence>
+            <log>
+                <property name="Message" value="Inbound Message successfully received !"/>
+            </log>
+            <send>
+                <endpoint key="converter-microservice-endpoint"/>
+            </send>
+        </inSequence>
+        <outSequence>
+            <xslt key="conf:myresources/ResponseTransformer.xslt"/>
+            <send/>
+        </outSequence>
+        <faultSequence/>
+    </resource>
+</api>

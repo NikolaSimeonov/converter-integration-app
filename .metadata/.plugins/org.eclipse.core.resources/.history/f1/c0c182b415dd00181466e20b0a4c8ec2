@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proxy name="converter-proxy" startOnLoad="true" transports="https http" xmlns="http://ws.apache.org/ns/synapse">
+    <target>
+        <endpoint name="endpoint_urn_uuid_7427b073-0e74-426a-b2ad-83efbd2c4ead">
+            <address format="get" statistics="enable" trace="enable" uri="http://localhost:8080"/>
+        </endpoint>
+        <inSequence>
+            <log level="full">
+                <property name="property_name" value="&quot;Here we go&quot;"/>
+            </log>
+        </inSequence>
+        <outSequence>
+            <log level="full"/>
+            <send/>
+        </outSequence>
+        <faultSequence/>
+    </target>
+</proxy>

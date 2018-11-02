@@ -1,0 +1,17 @@
+<proxy xmlns="http://ws.apache.org/ns/synapse" name="converter-proxy"
+	transports="http,https" statistics="disable" trace="disable"
+	startOnLoad="true">
+	<target >
+		<inSequence>
+			<log level="none" />
+		</inSequence>
+		<outSequence>
+			<log level="none" />
+			<send />
+		</outSequence>
+		<endpoint
+		name="endpoint_urn_uuid_762707c4-9868-435f-b7b1-fce8ad53c35f">
+		<address uri="http://localhost:8080/" />
+		</endpoint>
+	</target>
+</proxy>

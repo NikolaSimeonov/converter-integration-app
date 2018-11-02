@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;converter-integration/src/main/synapse-config/proxy-services/Inbound3.xml&apos; to &apos;converter-proxy.xml&apos;" description="Rename resource &apos;Inbound3.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/synapse-config/proxy-services/Inbound3.xml" name="converter-proxy.xml" stamp="1541185081524" updateReferences="true"/>
+</session>

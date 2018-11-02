@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+			<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+     <SOAP-ENV:Header>
+      <t:Transaction 
+         xmlns:t = "http://www.tutorialspoint.com/transaction/" 
+         SOAP-ENV:mustUnderstand = "true">5
+      </t:Transaction>
+   </SOAP-ENV:Header>
+	<xsl:template match="/">
+	<xsl:value-of select="/SOAP-ENV:Body"/>
+	</xsl:template>
+	</SOAP-ENV:Envelope>
+</xsl:stylesheet>
