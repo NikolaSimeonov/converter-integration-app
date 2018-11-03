@@ -7,7 +7,7 @@ You can find it here:
 https://github.com/NikolaSimeonov/converter-spring-boot
 
 The app has 2 major flows.
-1. API Flow - This is When access it receives SOAP message , logs property, and calls final endpoint. On outbound it uses
+1. API Flow - When accessed it receives SOAP message , logs property, and calls final endpoint. On outbound it uses
 XSLT transformations to add custom SOAP Message Header. The Header has 2 possible values
     <SOAP-ENV:Header>
         <ns3:Desciption>
