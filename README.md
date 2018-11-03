@@ -57,7 +57,7 @@ Sample response:
       URL for executing the flow:
       http://localhost:8280/services/converter-proxy.converter-proxyHttpSoap12Endpoint
       
-   Sample Request:
+Sample Request:
    
 <?xml version="1.0"?>
 <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns2="http://spring.io/guides/gs-producing-web-service">
