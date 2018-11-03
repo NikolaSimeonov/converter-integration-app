@@ -36,6 +36,8 @@ XSLT transformations to add custom SOAP Message Header. The Header has 2 possibl
 </SOAP-ENV:Envelope>
 
 Sample response:
+
+
 <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns2="http://spring.io/guides/gs-producing-web-service" xmlns:ns3="http://www.reachit.co">
     <SOAP-ENV:Header>
         <ns3:Desciption>
